@@ -1,0 +1,13 @@
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\Bin\Debug\com.rai.managed.dll
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\Bin\Debug\com.rai.managed.pdb
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\com.rai.managed.g.resources
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\com.rai.managed.dll
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\com.rai.managed.pdb
+C:\Users\Gangadhara Rai\Documents\GitHub\Managed\platforms\wp8\obj\Debug\XapCacheFile.xml
